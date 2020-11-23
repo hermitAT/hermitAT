@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adam Thorne</h1>
 <h3 align="center">An aspiring full-stack developer from Victoria, BC 🌎</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hermitat&label=Profile%20views&color=0e75b6&style=flat" alt="hermitat" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hermitat" alt="hermitat" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hermitat" target="blank"><img src="https://img.shields.io/twitter/follow/hermitat?logo=twitter&style=for-the-badge" alt="hermitat" /></a> </p>
 
 - 🔭 I’m currently enrolled in [Full-Stack Web Dev Bootcamp @ Lighthouse Labs!](https://www.lighthouselabs.ca/en/web-development-bootcamp)
 
-- 📫 How to reach me **ahthornev2@gmail.com**
-
 - 🌱 I’m currently learning **SQL fundamentals and database theory!**
 
 - ✔ I recently completed ['Tweeter', a simple SPA using HTML/CSS/JS](https://github.com/hermitAT/tweeter)
+
+- 📫 How to reach me **ahthornev2@gmail.com**
 
 - 🍸 My background is in **hospitality. Former bartender-server with nearly a decade of experience.**
 

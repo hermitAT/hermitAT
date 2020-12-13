@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently enrolled in [Full-Stack Web Dev Bootcamp @ Lighthouse Labs!](https://www.lighthouselabs.ca/en/web-development-bootcamp)
 
-- 🌱 I’m currently learning **SQL fundamentals and database theory!**
+- 🌱 I’m currently learning **React!!**
 
-- ✔ I recently completed ['Tweeter', a simple SPA using HTML/CSS/JS](https://github.com/hermitAT/tweeter)
+- ✔ I recently completed ['devTips', a midterm project combining fundamental skills learned from the first half of bootcamp!](https://github.com/hermitAT/midterm-resourcewall)
 
 - 📫 How to reach me **ahthornev2@gmail.com**
 

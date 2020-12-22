@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently enrolled in [Full-Stack Web Dev Bootcamp @ Lighthouse Labs!](https://www.lighthouselabs.ca/en/web-development-bootcamp)
 
-- 🌱 I’m currently learning **React!!**
+- 🌱 I’m currently learning **React, WebSockets and building some foundational Ruby skills!**
 
-- ✔ I recently completed ['devTips', a midterm project combining fundamental skills learned from the first half of bootcamp!](https://github.com/hermitAT/midterm-resourcewall)
+- ✔ I recently completed ['Interview Scheduler', a React app developed and deployed using TDD and Heroku+Netlify](https://gracious-benz-e196c3.netlify.app/)
 
 - 📫 How to reach me **ahthornev2@gmail.com**
 

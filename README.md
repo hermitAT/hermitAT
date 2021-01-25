@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Thorne</h1>
 <h3>A full-stack developer from Victoria, BC 🌎</h3>
 
-<p align="left"> <a href="https://twitter.com/hermitat" target="blank"><img src="https://img.shields.io/twitter/follow/hermitat?logo=twitter&style=for-the-badge" alt="hermitat" /></a> </p>
 
 - 🔭 I’m currently enrolled in [Full-Stack Web Dev Bootcamp @ Lighthouse Labs!](https://www.lighthouselabs.ca/en/web-development-bootcamp)
 

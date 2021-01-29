@@ -2,9 +2,9 @@
 <h3>A full-stack developer from Victoria, BC 🌎</h3>
 
 
-- 🔭 I’m currently enrolled in [Full-Stack Web Dev Bootcamp @ Lighthouse Labs!](https://www.lighthouselabs.ca/en/web-development-bootcamp)
+- 🔭 I just completed the [Full-Stack Web Dev Bootcamp @ Lighthouse Labs!](https://www.lighthouselabs.ca/en/web-development-bootcamp)
 
-- 🌱 I’m currently completing [a cocktail recipe app], built with [Ruby on Rails] and [React]!
+- 🌱 For our final project, we completed **a cocktail recipe app** named [**CocktailSage**, built with **Ruby on Rails** and **React**!](https://github.com/hermitAT/react-sage)
 
 - ✔ I recently completed ['Interview Scheduler', a React app developed and deployed using TDD and Heroku+Netlify](https://gracious-benz-e196c3.netlify.app/)
 

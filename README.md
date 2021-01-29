@@ -4,15 +4,15 @@
 
 - 🔭 I just completed the [Full-Stack Web Dev Bootcamp @ Lighthouse Labs!](https://www.lighthouselabs.ca/en/web-development-bootcamp)
 
-- 🌱 For our final project, we completed **a cocktail recipe app** named [**CocktailSage**, built with **Ruby on Rails** and **React**!](https://github.com/hermitAT/react-sage)
+- 🌱 For our final project, we completed **a cocktail recipe app** named [**CocktailSage**](https://github.com/hermitAT/react-sage), built with **Ruby on Rails** and **React**!
 
-- ✔ I recently completed ['Interview Scheduler', a React app developed and deployed using TDD and Heroku+Netlify](https://gracious-benz-e196c3.netlify.app/)
+- ✔ I also recently completed ['Interview Scheduler'](https://gracious-benz-e196c3.netlify.app/), a React app developed and deployed using TDD and Heroku+Netlify
 
-- 📫 How to reach me **ahthornev2@gmail.com**
+- 📫 How to reach me: **ahthornev2@gmail.com** or my LinkedIn below!
 
 - 🍸 My background is in **hospitality. Former bartender-server with nearly a decade of experience.**
 
-- 🎮 I have a passion for **games! I play card games competitively and I'm a big Nintendo fanboy.**
+- 🎮 I have a passion for **games! I play card games and team-based strategy games competitively.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

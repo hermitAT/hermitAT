@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/ahthornev2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahthornev2" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hermitat&show_icons=true&locale=en&layout=compact&theme=radical" alt="hermitat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hermitat&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="hermitat" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hermitat&show_icons=true&theme=radical&locale=en" alt="hermitat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hermitat&show_icons=true&theme=cobalt&locale=en" alt="hermitat" /></p>

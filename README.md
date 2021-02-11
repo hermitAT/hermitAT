@@ -6,7 +6,7 @@
 
 - 🌱 For our final project, we completed **a cocktail recipe app** named [**CocktailSage**](https://github.com/hermitAT/react-sage), built with **Ruby on Rails** and **React**!
 
-- ✔ I also recently completed ['Interview Scheduler'](https://gracious-benz-e196c3.netlify.app/), a React app developed and deployed using TDD and Heroku+Netlify
+- ✔ I also recently completed ['Interview Scheduler'](https://gracious-benz-e196c3.netlify.app/), a React app deployed with Heroku+Netlify
 
 - 📫 How to reach me: **ahthornev2@gmail.com** or my LinkedIn below!
 

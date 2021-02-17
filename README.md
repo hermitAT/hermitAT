@@ -10,9 +10,9 @@
 
 - 📫 How to reach me: **ahthornev2@gmail.com** or my LinkedIn below!
 
-- 🍸 My background is in **hospitality. Former bartender-server with nearly a decade of experience.**
+- 🍸 My background is in **hospitality, where I worked as a bartender-server.**
 
-- 🎮 I have a passion for **games! I play card games and team-based strategy games competitively.**
+- 🎮 I have a passion for **games! I'll play anything I can get my hands on!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
